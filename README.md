@@ -4,7 +4,7 @@ Submitted by: **Chris Qiu**
 
 **Flixster** is an app that introduces networking 
 
-Time spent: **5** hours spent in total
+Time spent: **10** hours spent in total
 
 ## Required Features
 
